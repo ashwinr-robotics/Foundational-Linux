@@ -1,4 +1,4 @@
-# Lesson 1 - Linux CLI & Navigation
+# Foundational Linux 
 
 New to Linux? Terminal, Commands that feels like coding just to getting into a folder, shell, directory, blah, blah... it sucks right?
 
