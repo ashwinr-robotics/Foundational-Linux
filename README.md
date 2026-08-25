@@ -1,20 +1,87 @@
-# Foundational Linux 
+# 🐧 Foundational Linux
 
-New to Linux? Terminal, Commands that feels like coding just to getting into a folder, shell, directory, blah, blah... it sucks right?
+> **Learning Linux one command, one mistake, and one debugging session at a time.**
 
-**This is how exactly I felt before a year, when I switched from Windows to Linux. But now, using Windows is the greatest nightmare for me!!**
+---
 
-**Here I'd be documenting the basic Linux CLI's for day-to-day usage, I'm not a master with Linux. I'm just learner, who sticks for using Linux day-by-day**
+## 👋 My Linux Journey
 
-Learn the basic Linux command-line interface and navigate the filesystem. 
+New to Linux?
 
-## Why Linux feels creepy?
+Terminal, commands that feel like coding just to get into a folder, shell, directory, blah, blah... it sucks, right? 😅
 
-Yeah! You heard it right. When you try to switch from Windows to Linux, it feels creepy to remember and use a command just to get into a file or folder... Ahhh... in Linux, folders are known as **Directories**.
+This is exactly how I felt when I switched from Windows to Linux.
 
-Linux is focused to be with minimal graphics, and while this have several merits & demerits. Linux is used primarily by developers because of its flexibility, and adaptability. 
+But now...
 
-By lowering the graphics ---> Performance will be concentrated for the actually required things for development.
-**This brings the need for the CLI - Command-Line Interface, where you actually be using the complete OS, just by typing some commands, with a minimal graphics**
+> **Going back to Windows feels like the greatest nightmare for me! 😂**
 
+I'm not a Linux master. I'm still learning, and this repository documents my journey toward becoming comfortable with Linux and using it confidently every day.
 
+---
+
+## 🐧 Why Does Linux Feel Creepy?
+
+Yeah, you heard it right. 😅
+
+When you switch from Windows to Linux, it can feel strange to remember and use commands just to get into a file or folder.
+
+Oh... and in Linux, folders are commonly referred to as **directories**.
+
+Linux relies heavily on the command line because of its flexibility, efficiency, and adaptability.
+
+Instead of depending heavily on graphical interfaces, the **CLI (Command-Line Interface)** allows you to interact directly with the operating system by typing commands.
+
+---
+
+## 🎯 Goal
+
+Become comfortable enough with Linux to use it confidently for:
+
+- 🤖 Robotics development
+- 🦾 ROS 2
+- 🔧 Embedded systems
+- 🐍 Python development
+- 💻 Software development
+- 🍓 Raspberry Pi
+- 🚀 Autonomous robots
+
+---
+
+## 📚 What I'm Learning
+
+### 🖥️ Linux Fundamentals
+
+- [ ] 📁 Files & Directories
+- [ ] 🧭 Navigation
+- [ ] 🔐 Permissions & `sudo`
+- [ ] ⚙️ Processes
+- [ ] 🌱 Environment Variables
+- [ ] 🔑 SSH
+- [ ] 🌐 Networking
+- [ ] 📊 System Monitoring
+- [ ] 🐚 Shell Scripting
+- [ ] 🛠️ Linux Debugging
+
+---
+
+## 🧪 Learning Method
+
+I'm not trying to learn Linux by memorizing commands.
+
+My approach is:
+
+```text
+📖 Learn
+   ↓
+💻 Practice
+   ↓
+🔨 Build
+   ↓
+💥 Break
+   ↓
+🐛 Debug
+   ↓
+📝 Document
+   ↓
+📦 Commit
